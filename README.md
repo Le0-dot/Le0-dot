@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey, I'm Lev Koliadich
+
+- I was first introduced to programming in C++, and to this day it's the language I know best
+- My second language of choice is Python, it complements C++ and is awesome by itself
+- Recently started digging into functional programming in Haskell, and so far loving the ergonomics
+- If you are hiring, be sure to consider my candidacy and you are welcome to chat anytime
 
 <!--
 **Le0-dot/Le0-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
